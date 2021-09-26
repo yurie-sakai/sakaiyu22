@@ -76,7 +76,8 @@ img {
   top: 0;
   z-index: 1;
   width: 100%;
-  background:no-repeat center/100% url("../img/header.jpg");
+  background:no-repeat center/100%;
+  background-image:url(../img/header.jpg);
   
 }
 
@@ -111,7 +112,7 @@ img {
 
 .gnav-item a {
   position: relative;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
   display: inline-block;
   padding: 5px 0;
