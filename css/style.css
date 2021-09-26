@@ -146,6 +146,7 @@ img {
   height: 85vh;
   text-align: center;
   background-image:url(../img/header.jpg);
+  background-position:center;
 }
 
 .mv-container {
