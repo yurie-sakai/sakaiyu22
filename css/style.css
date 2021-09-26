@@ -101,7 +101,7 @@ img {
 
 .gnav-list {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between center;
   list-style: none;
 }
 
