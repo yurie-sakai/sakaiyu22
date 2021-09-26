@@ -76,7 +76,7 @@ img {
   top: 0;
   z-index: 1;
   width: 100%;
-  background-image:url(../img/header.jpg);
+  background:no-repeat center/100%;
   
 }
 
@@ -145,6 +145,7 @@ img {
   justify-content: center;
   height: 85vh;
   text-align: center;
+  background-image:url(../img/header.jpg);
 }
 
 .mv-container {
