@@ -270,6 +270,9 @@ img {
 .profile-body {
   flex: 1;
 }
+.profile-name {
+  padding20px;
+}
 
 .profile-body p {
   font-size: 15px;
