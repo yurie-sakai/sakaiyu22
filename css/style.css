@@ -271,7 +271,7 @@ img {
   flex: 1;
 }
 .profile-name {
-  padding-bottom:20px;
+  margin-bottom:10px;
 }
 
 .profile-body p {
