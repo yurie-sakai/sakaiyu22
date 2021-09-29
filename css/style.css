@@ -472,24 +472,7 @@ img {
     line-height: 1.7;
   }
 
-  /* Works */
-  .works-name {
-    font-size: 12px;
-  }
-
-  .works-info {
-    margin-top: 3px;
-  }
-
-  .works-list {
-    justify-content: space-between;
-  }
-
-  .works-item {
-    flex: 0 0 48%;
-    margin-right: 0;
-    margin-bottom: 30px;
-  }
+ 
 
   /* Skill */
   .skill-list {
