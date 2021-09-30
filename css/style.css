@@ -258,7 +258,7 @@ img {
   justify-content: space-between;
 }
 
-.profile-history-content ul li {
+.profile-history-content {
  display: flex;
 }
 
