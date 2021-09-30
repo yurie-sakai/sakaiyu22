@@ -249,6 +249,26 @@ img {
 /*--------------------------------
  Profile history
 ---------------------------------*/
+.profile {
+ display: flex;
+}
+
+.profile-detail {
+ width: 50%;
+ display: flex;
+}
+
+.profile-image {
+ width: 50%;
+}
+
+.profile-detail-name-and-desc {
+ width: 50%;
+}
+
+.profile-history {
+ width: 50%;
+}
 
 .profile-history{
   display: flex;
