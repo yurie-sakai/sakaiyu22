@@ -258,17 +258,15 @@ img {
   justify-content: space-between;
 }
 
-.profile-history ul li {
+.profile-history-content ul li {
  display: flex;
 }
 
 .profile-history-timeline-date {
- display: flex;
  width: 20%;
 }
 
 .profile-history-timeline-content {
- display: flex;
  width: 80%;
 }
 
