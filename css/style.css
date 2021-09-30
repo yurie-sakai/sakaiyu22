@@ -263,6 +263,7 @@ img {
 }
 
 .profile-history-timeline-date {
+ display: flex;
  width: 20%;
 }
 
