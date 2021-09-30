@@ -263,10 +263,9 @@ img {
 
 .profile-history-timeline-date {
  width: 20%;
-}
-
-.profile-history-timeline-content {
- width: 80%;
+ font-size: 20px;
+ font-weight: bold;
+ color: #707070;
 }
 
 .profile-history-content h3 {
@@ -290,6 +289,7 @@ img {
  top: 0;
  left: -12px;
 }
+
 
 /*--------------------------------
  Contact
