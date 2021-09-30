@@ -252,9 +252,6 @@ img {
 
 .profile-history{
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-bottom: -50px;
 }
 
 .profile-history-content ul li{
@@ -262,7 +259,6 @@ img {
 }
 
 .profile-history-timeline-date {
- display: flex;
  width: 20%;
 }
 
