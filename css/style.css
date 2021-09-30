@@ -252,7 +252,6 @@ img {
 
 .profile-history{
   display: flex;
-  width: 50%;
   flex-wrap: wrap;
   max-width: 800px;
   margin: 0 auto;
