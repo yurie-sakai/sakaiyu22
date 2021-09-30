@@ -263,10 +263,12 @@ img {
 }
 
 .profile-history-timeline-date {
+ display: flex;
  width: 20%;
 }
 
 .profile-history-timeline-content {
+ display: flex;
  width: 80%;
 }
 
