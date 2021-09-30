@@ -264,12 +264,11 @@ img {
 }
 
 .profile-history-timeline-date {
- /* イベントの日付は20% */
  width: 20%;
 }
 
 .profile-history-timeline-content {
- /* イベントの詳細は80% */
+ display: flex;
  width: 80%;
 }
 
