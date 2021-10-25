@@ -257,6 +257,10 @@ img {
  display: flex;
 }
 
+.history-name{
+  margin-bottom: 10px;
+}
+  
 .profile-history {
  display: flex;
 }
@@ -279,9 +283,6 @@ img {
  position: relative;
 }
 
-.profile-history-timeline-content h3{
-  padding bottom:20px;
-}
 
 .profile-history-timeline-content:before {
  content: '';
