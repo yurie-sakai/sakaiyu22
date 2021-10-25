@@ -267,29 +267,23 @@ img {
 
 .profile-history-timeline-date {
  width: 20%;
+ font-size: 20px;
+ font-weight: bold;
+ color: #707070;
 }
 
 .profile-history-timeline-content {
  width: 80%;
- /*border-left: 4px #e5e6d1 solid;
- padding-left: 30px;*/
  position: relative;
 }
 
 
 .profile-history-timeline-content:before {
  content: '';
- /* 20pxの正方形を作る */
  width:  20px;
  height: 20px;
-
- /* 20pxの正方形に色をつける */
  background: #6fc173;
-
- /* border-radiusを100%にして正方形を丸円にする */
  border-radius: 100%;
-
- /* 親要素に対して、絶対位置で一番上にもってくる */
  position: absolute;
  top: 0;
  left: -12px;
