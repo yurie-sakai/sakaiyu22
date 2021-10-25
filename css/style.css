@@ -250,22 +250,17 @@ img {
  Profile history
 ---------------------------------*/
 
-.profile-history{
-  display: flex;
-}
-
-.profile-history-content ul li{
+.profile {
  display: flex;
 }
 
-.profile-history-timeline-date {
- width: 20%;
+.profile-detail {
+ width: 50%;
 }
 
-.profile-history-timeline-content {
- width: 80%;
+.profile-history {
+ width: 50%;
 }
-
 
 /*--------------------------------
  Contact
