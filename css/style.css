@@ -254,18 +254,13 @@ img {
 }
 
 .profile-detail {
- width: 50%;
  display: flex;
 }
 
 .profile-history {
- width: 50%;
+ display: flex;
 }
 
-/**
-* タイムラインのli要素の中をflexにすることで、
-* 日付のdiv要素と、イベント名・イベント詳細を左右に配置できる
-*/
 .profile-history ul li {
  display: flex;
 }
