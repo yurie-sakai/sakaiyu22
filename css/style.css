@@ -249,12 +249,20 @@ img {
 /*--------------------------------
  Profile history
 ---------------------------------*/
-
 .profile {
  display: flex;
 }
 
 .profile-detail {
+ width: 50%;
+ display: flex;
+}
+
+.profile-image {
+ width: 50%;
+}
+
+.profile-detail-name-and-desc {
  width: 50%;
 }
 
@@ -262,6 +270,23 @@ img {
  width: 50%;
 }
 
+/**
+* タイムラインのli要素の中をflexにすることで、
+* 日付のdiv要素と、イベント名・イベント詳細を左右に配置できる
+*/
+.profile-history ul li {
+ display: flex;
+}
+
+.profile-history-timeline-date {
+ /* イベントの日付は20% */
+ width: 20%;
+}
+
+.profile-history-timeline-content {
+ /* イベントの詳細は80% */
+ width: 80%;
+}
 /*--------------------------------
  Contact
 ---------------------------------*/
@@ -276,6 +301,8 @@ img {
 .contact-text {
   margin-top: 10px;
 }
+
+
 /*--------------------------------
  ページトップ
 ---------------------------------*/
