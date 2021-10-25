@@ -274,8 +274,7 @@ img {
 
 .profile-history-timeline-content {
  width: 80%;
- border-left: 4px #e5e6d1 solid;
- padding-left: 30px;
+  position: relative;
 }
 
 .profile-history-timeline-content:before {
