@@ -258,14 +258,6 @@ img {
  display: flex;
 }
 
-.profile-image {
- width: 50%;
-}
-
-.profile-detail-name-and-desc {
- width: 50%;
-}
-
 .profile-history {
  width: 50%;
 }
@@ -279,14 +271,16 @@ img {
 }
 
 .profile-history-timeline-date {
- /* イベントの日付は20% */
  width: 20%;
 }
 
 .profile-history-timeline-content {
- /* イベントの詳細は80% */
  width: 80%;
+ border-left: 4px #e5e6d1 solid;
+ padding-left: 30px;
 }
+
+
 /*--------------------------------
  Contact
 ---------------------------------*/
