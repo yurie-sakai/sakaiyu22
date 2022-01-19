@@ -283,6 +283,9 @@ img {
  position: relative;
 }
 
+.profile-history-timeline-content p{
+  padding-bottom:20px;
+}
 
 .profile-history-timeline-content:before {
  content: '';
