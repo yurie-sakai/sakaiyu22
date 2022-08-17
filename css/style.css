@@ -271,15 +271,15 @@ img {
 }
 
 .profile-history-timeline-date {
- width: 20%;
- font-size: 15px;
+ width: 25%;
+ font-size: 20px;
  font-weight: bold;
  padding-right:5px;
  color: #707070;
 }
 
 .profile-history-timeline-content {
- width: 80%;
+ width: 75%;
  border-left: 4px #e5e6d1 solid;
  padding-left: 30px;
  position: relative;
