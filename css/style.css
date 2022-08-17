@@ -265,10 +265,6 @@ img {
  padding: 0px 10px;
 }
 
-.profile-history ul li {
- display: flex;
-}
-
 .profile-history-timeline-date {
  width: 20%;
  font-size: 20px;
