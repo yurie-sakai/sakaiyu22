@@ -265,6 +265,10 @@ img {
  display: flex;
 }
 
+.profile-history ul {
+  padding:0px 10px
+}
+
 .profile-history ul li {
  display: flex;
 }
@@ -303,21 +307,6 @@ img {
  position: absolute;
  top: 0;
  left: -12px;
-}
-
-/*--------------------------------
- Contact
----------------------------------*/
-.contact {
-  text-align: center;
-}
-
-.contact-item:not(:last-child) {
-  margin-right: 10px;
-}
-
-.contact-text {
-  margin-top: 10px;
 }
 
 
