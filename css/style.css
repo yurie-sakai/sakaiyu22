@@ -265,8 +265,8 @@ img {
  display: flex;
 }
 
-.profile-history ul {
-  padding:0px 10px
+.profile-history-content ul {
+  padding:0px 10px;
 }
 
 .profile-history ul li {
