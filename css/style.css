@@ -260,13 +260,13 @@ img {
 .history-name{
   margin-bottom: 10px;
 }
-  
+
 .profile-history {
  width:100%;
  padding:0px 10px;
 }
 
-.profile-history ul li{
+.profile-history ul li {
  display: flex;
 }
 
