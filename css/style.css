@@ -267,7 +267,7 @@ img {
 }
 
 .profile-history ul li {
- width:100%;
+ display: flex;
  padding-bottom:10px;
 }
 
