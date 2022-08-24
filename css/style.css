@@ -271,7 +271,7 @@ img {
 }
 
 .profile-history-timeline-date {
- width: 25%;
+ width: 15%;
  font-size: 20px;
  font-weight: bold;
  padding-right:5px;
@@ -279,9 +279,9 @@ img {
 }
 
 .profile-history-timeline-content {
- width: 75%;
+ width: 85%;
  border-left: 4px #e5e6d1 solid;
- padding:0px 30px; 
+ padding:0px 0px 20px 30px; 
  position: relative;
 }
 
