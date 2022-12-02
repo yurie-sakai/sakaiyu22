@@ -249,10 +249,42 @@ img {
 /*--------------------------------
  design
 ---------------------------------*/
-.design p {
-  margin:15px 0px;
-  text-align:center
+.design-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -40px;
 }
+
+.design-item {
+  width: 31.74603%;
+  margin-right: 1.58730%;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.design-item:hover {
+  opacity: .9;
+}
+
+.design-item:nth-of-type(3n) {
+  margin-right: 0;
+}
+
+.designimg img {
+  border: 1px solid #e6e6e6;
+}
+
+.design-name {
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.design-info {
+  font-size: 10px;
+  margin-top: 5px;
+}
+
 
 /*--------------------------------
  Profile history
