@@ -249,6 +249,11 @@ img {
 /*--------------------------------
  design
 ---------------------------------*/
+.design-exp p {
+  margin:15px 0px;
+  text-align:center;
+}
+
 .design-list {
   display: flex;
   flex-wrap: wrap;
@@ -280,10 +285,6 @@ img {
   margin-top: 8px;
 }
 
-.design-info {
-  font-size: 10px;
-  margin-top: 5px;
-}
 
 
 /*--------------------------------
