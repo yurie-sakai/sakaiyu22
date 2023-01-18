@@ -252,6 +252,7 @@ img {
 
 .tool-list {
  display: flex;
+  width:100%;
   justify-content: center;
 }
 
