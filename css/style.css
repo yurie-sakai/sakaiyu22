@@ -251,16 +251,12 @@ img {
 ---------------------------------*/
 
 .tool-list {
-  width:100%;
-  padding:0px 10px;
-}
-
-.tool-item {
+ display: flex;
 border: #4e7bcc 1px solid; /*境界線の指定*/
 padding:10px;
 }
 
-.tool-item p {
+.tool-list p {
 margin:0;
 padding:0;
 }
