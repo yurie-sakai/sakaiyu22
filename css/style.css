@@ -257,14 +257,11 @@ img {
   margin-bottom: -50px;
 }
 
-.tool-item {
+.tool-name {
 border: #4e7bcc 1px solid; /*境界線の指定*/
 padding:10px;
 }
-.tool-name {
-margin:0;
-padding:0;
-}
+
 
 /*--------------------------------
  Profile history
