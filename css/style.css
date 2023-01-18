@@ -265,6 +265,7 @@ img {
 
 .tool-name {
 border: #4e7bcc 1px solid; /*境界線の指定*/
+width: 30%;
 padding:10px;
 }
 
