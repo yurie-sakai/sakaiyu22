@@ -247,45 +247,29 @@ img {
 
 
 /*--------------------------------
- design
+ Tool
 ---------------------------------*/
-.design-exp {
-  margin:15px 0px;
-  text-align:center;
+.tool-section .inner {
+  max-width: 1000px;
 }
 
-.design-list {
+.tool-list {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: -40px;
+  justify-content: space-around;
+  margin-bottom: -50px;
 }
 
-.design-item {
-  width: 31.74603%;
-  margin-right: 1.58730%;
-  margin-bottom: 40px;
-  color: #333;
+.tool-item {
+  display: flex;
+  flex: 0 0 21%;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 8px 24px 0;
+  border-radius: 15px;
+  border: 1px solid #333;
+  padding: .5em;
 }
-
-.design-item:hover {
-  opacity: .9;
-}
-
-.design-item:nth-of-type(3n) {
-  margin-right: 0;
-}
-
-.designimg img {
-  border: 1px solid #e6e6e6;
-}
-
-.design-name {
-  font-size: 12px;
-  font-weight: bold;
-  margin-top: 8px;
-  text-align:center;
-}
-
 
 
 /*--------------------------------
