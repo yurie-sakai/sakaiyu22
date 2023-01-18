@@ -249,28 +249,14 @@ img {
 /*--------------------------------
  Tool
 ---------------------------------*/
-.tool-section .inner {
-  max-width: 1000px;
-}
-
 .tool-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  margin-bottom: -50px;
+border: #4e7bcc 1px solid; /*境界線の指定*/
+padding:10px;
 }
-
 .tool-item {
-  display: flex;
-  flex: 0 0 21%;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 0 8px 24px 0;
-  border-radius: 15px;
-  border: 1px solid #333;
-  padding: .5em;
+margin:0;
+padding:0;
 }
-
 
 /*--------------------------------
  Profile history
