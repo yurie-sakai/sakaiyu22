@@ -249,6 +249,9 @@ img {
 /*--------------------------------
  Tool
 ---------------------------------*/
+.tool-section {
+  max-width: 1000px;
+}
 
 .tool-list {
   display: flex;
