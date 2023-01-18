@@ -256,6 +256,10 @@ img {
   margin-bottom: -50px;
 }
 
+.tool-list ul li{
+  display: flex;
+}
+
 .tool-item {
   display: flex;
   align-items: flex-start;
