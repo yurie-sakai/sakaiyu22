@@ -251,9 +251,8 @@ img {
 ---------------------------------*/
 
 .tool-list {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: -50px;
+  width:100%;
+  padding:0px 10px;
 }
 
 .tool-list ul li{
