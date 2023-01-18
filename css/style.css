@@ -255,10 +255,6 @@ img {
   padding:0px 10px;
 }
 
-.tool-list ul li{
-  display: flex;
-}
-
 .tool-item {
   display: flex;
   align-items: flex-start;
