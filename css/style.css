@@ -256,13 +256,14 @@ img {
 
 .tool-item {
  display: flex;
+ margin:0px 20px;
 } 
 
 .tool-item li {
 display: flex;
 border: #4e7bcc 1px solid; /*境界線の指定*/
 padding:10px;
-margin-right:10px;
+margin-right:20px;
 }
 
 /*--------------------------------
