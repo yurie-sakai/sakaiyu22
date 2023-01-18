@@ -249,11 +249,19 @@ img {
 /*--------------------------------
  Tool
 ---------------------------------*/
+
 .tool-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: -50px;
+}
+
+.tool-item {
 border: #4e7bcc 1px solid; /*境界線の指定*/
 padding:10px;
 }
-.tool-item {
+.tool-name {
 margin:0;
 padding:0;
 }
