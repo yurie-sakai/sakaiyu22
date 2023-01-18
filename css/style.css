@@ -256,6 +256,13 @@ img {
   margin-bottom: -50px;
 }
 
+.tool-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
 .tool-name {
 border: #4e7bcc 1px solid; /*境界線の指定*/
 padding:10px;
