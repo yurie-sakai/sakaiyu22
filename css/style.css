@@ -252,11 +252,14 @@ img {
 
 .tool-list {
  display: flex;
+}
+
+.tool-item {
 border: #4e7bcc 1px solid; /*境界線の指定*/
 padding:10px;
 }
 
-.tool-list p {
+.tool-item p {
 margin:0;
 padding:0;
 }
