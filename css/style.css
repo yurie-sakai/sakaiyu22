@@ -254,8 +254,9 @@ img {
  display: flex;
 }
 
-.tool-item {
+.tool-item ul{
  display: flex;
+ width:100%;
 } 
 
 .tool-item li {
